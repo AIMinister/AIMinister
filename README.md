@@ -132,3 +132,7 @@ Build systems that scale trust in AI and infrastructure
 <p align="center">
   ⚡ Building. Scaling. Securing. ⚡
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AIMinister/AIMinister/output/github-contribution-grid-snake.svg">
+</p>
